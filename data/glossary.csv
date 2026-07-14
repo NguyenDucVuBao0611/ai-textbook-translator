@@ -1,0 +1,31 @@
+english,vietnamese_academic,vietnamese_beginner,explanation
+Gradient Descent,Gradient descent,Thuật toán xuống dốc,Thuật toán tối ưu hóa tìm cực tiểu bằng cách đi ngược hướng đạo hàm.
+Backpropagation,Lan truyền ngược,Lan truyền ngược sai số,Thuật toán tính đạo hàm của hàm mất mát theo trọng số để cập nhật mạng nơ-ron.
+Overfitting,Quá khớp,Học vẹt,Hiện tượng mô hình hoạt động cực tốt trên tập huấn luyện nhưng kém trên dữ liệu mới thực tế.
+Underfitting,Dưới khớp,Học chưa tới,Hiện tượng mô hình quá đơn giản nên không học được cấu trúc của dữ liệu huấn luyện.
+Learning Rate,Tốc độ học,Tốc độ học (bước đi),Hệ số điều chỉnh kích thước bước cập nhật trọng số trong mỗi chu kỳ tối ưu.
+Loss Function,Hàm mất mát,Hàm đo sai số,Hàm số đo lường mức độ sai lệch giữa dự đoán của mô hình và thực tế.
+Neural Network,Mạng nơ-ron,Mạng nơ-ron nhân tạo,Mô hình tính toán lấy cảm hứng từ cấu trúc hệ thần kinh của con người.
+Deep Learning,Học sâu,Học sâu (nhiều lớp),Phân ngành của ML dựa trên các mạng nơ-ron nhân tạo có nhiều lớp ẩn.
+Machine Learning,Học máy,Học máy,Ngành học giúp máy tính tự học từ dữ liệu mà không cần lập trình cụ thể từng dòng lệnh.
+Epoch,Epoch (chu kỳ),Lần học (chu kỳ),Một lượt duyệt qua toàn bộ tập dữ liệu huấn luyện của mô hình.
+Batch Size,Kích thước lô,Kích thước nhóm,Số lượng mẫu dữ liệu được xử lý trong một lần cập nhật trọng số.
+Feature,Đặc trưng,Đặc trưng (thuộc tính),Một thuộc tính hoặc biến số đầu vào dùng để mô hình dự đoán.
+Label,Nhãn,Nhãn (kết quả),Giá trị đầu ra mục tiêu mà mô hình cần học cách dự đoán.
+Softmax,Hàm Softmax,Hàm chuyển đổi xác suất,Hàm biến đổi một vector các số thực thành một phân phối xác suất (tổng bằng 1).
+Activation Function,Hàm kích hoạt,Hàm kích hoạt,Hàm số quyết định nơ-ron có được kích hoạt hay không dựa trên tổng đầu vào.
+Cross Entropy,Cross Entropy,Độ lệch phân phối,Hàm đo sai lệch giữa hai phân phối xác suất thường dùng cho bài toán phân loại.
+Supervised Learning,Học có giám sát,Học có hướng dẫn,Phương pháp học máy sử dụng tập dữ liệu đã được gán nhãn sẵn kết quả.
+Unsupervised Learning,Học không giám sát,Tự học không nhãn,Phương pháp học máy tìm cấu trúc ẩn trong dữ liệu chưa gán nhãn.
+Reinforcement Learning,Học tăng cường,Học thử-sai nhận thưởng,Học thông qua tương tác với môi trường để tối đa hóa điểm số/phần thưởng.
+Transformer,Mô hình Transformer,Mô hình Transformer,Kiến trúc mạng nơ-ron dựa trên cơ chế Attention rất phổ biến trong xử lý ngôn ngữ.
+Attention Mechanism,Cơ chế chú ý,Cơ chế chú ý (tập trung),Kỹ thuật cho phép mô hình tập trung vào các phần quan trọng nhất của chuỗi đầu vào.
+Weights,Trọng số,Trọng số (độ quan trọng),Các tham số của mô hình được cập nhật liên tục để thay đổi tầm ảnh hưởng của đầu vào.
+Bias,Độ chệch (Bias),Sai số hệ thống (hệ số tự do),Tham số tự do của nơ-ron giúp dịch chuyển hàm kích hoạt sang trái hoặc phải.
+Regularization,Regularization (Điều chuẩn),Kỹ thuật chống học vẹt,Các phương pháp ngăn chặn quá khớp bằng cách phạt các trọng số có giá trị quá lớn.
+Optimization,Tối ưu hóa,Tối ưu hóa,Quá trình điều chỉnh tham số để cực tiểu hóa hoặc cực đại hóa một hàm số mục tiêu.
+Fully Connected Layer,Lớp kết nối đầy đủ,Lớp kết nối toàn bộ,Lớp trong mạng nơ-ron nơi mọi nơ-ron được kết nối với tất cả nơ-ron ở lớp trước đó.
+Convolutional Neural Network (CNN),Mạng nơ-ron tích chập,Mạng nơ-ron xử lý hình ảnh,Kiến trúc mạng chuyên dùng cho xử lý hình ảnh hoặc dữ liệu không gian.
+Recurrent Neural Network (RNN),Mạng nơ-ron hồi quy,Mạng nơ-ron chuỗi thời gian,Kiến trúc mạng chuyên xử lý dữ liệu chuỗi tuần tự hoặc thời gian.
+Hyperparameter,Siêu tham số,Tham số thiết lập trước,Các tham số do người lập trình cấu hình thủ công trước khi huấn luyện (ví dụ: learning rate).
+Ground Truth,Ground truth,Thực tế khách quan,Giá trị thực tế chuẩn xác được dùng làm mốc để đối chiếu kết quả dự đoán.
